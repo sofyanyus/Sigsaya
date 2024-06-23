@@ -11,6 +11,7 @@ web berfungsi untuk menampilkan peta interaktif Kecamatan Banggae menggunakan da
 * Informasi wilayah kecamatan.
 
 ## Cara Menjalankan
-1. Kloning Repositori : git clone https://github.com/sofyanyus/Sigsaya/blob/main/tugasfinalsig-main/tugasfinalsig-main/README.md
-2. Install Dependensi : pip install -r requirements.txt
-3. Jalankan Aplikasi : streamlit run app.py
+1. Kloning Repositori : git clone
+https://github.com/sofyanyus/Sigsaya/blob/main/tugasfinalsig-main/tugasfinalsig-main/README.md
+3. Install Dependensi : pip install -r requirements.txt
+4. Jalankan Aplikasi : streamlit run app.py
